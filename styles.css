@@ -1,0 +1,21 @@
+.big-title{
+    font-size: 10rem;
+    color:yellow;
+    font-family: cursive;
+}
+
+.margin-50 {
+    margin: 50px;
+}
+
+.pic {
+    align-content: center;
+    width: 15%;
+    height: 1%;
+}
+
+div {
+
+    align-items: center;
+    text-align: center;
+}
